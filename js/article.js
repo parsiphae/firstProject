@@ -1,7 +1,7 @@
 
 function articleClass() { 
    
-   this.pubLang1="";
+   this.pubLang="";
    this.pubNum="";
    this.nbrArticle="";
    this.isAllowed="";
